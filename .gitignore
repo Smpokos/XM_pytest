@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Playwright
+playwright-report/
+test-results/
+playwright/.cache/
+playwright/.auth/
+
+# Debug artefacts
+banner-debug.txt
+modal-debug.txt
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# Env
+.env
